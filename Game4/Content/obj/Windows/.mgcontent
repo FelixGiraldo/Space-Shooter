@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Score.spritefont</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/PlayerHealth.spritefont</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Alien.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Player.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Bullet.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Enemy2.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Star.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/block.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Bullet1.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Bullet2.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Menu1.spritefont</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Menu/PauseButton.png</File>
+    <File>C:/Users/felix.giraldolindho/Documents/Visual Studio 2015/Projects/Game4/Game4/Content/Menu/Ammo.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
