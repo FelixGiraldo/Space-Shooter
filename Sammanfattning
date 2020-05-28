@@ -1,0 +1,17 @@
+Detta program är mitt projekt jag valt ut att jobba med för digitalt skapande 2 i gymnasiet. Projektet är en spaceshooter, 
+och följer det stereotypiska spaceshooter-temat där man befinner sig i ett 2D-plan, med fiender som anfaller en uppifrån. 
+Spelet är skrivet C#, monogame, och är inspirerat av spelet "Nova Drift", som tillverkats av Chimeric. 
+
+I spelet så är målet att samla så mycket poäng som möjligt utan att dö. Det finns ingen timer eller slut, så spelaren samlar poäng
+fram tills den är besegrad, varpå spelaren då får välja mellan att starta om spelet eller att avsluta.
+Spelaren möter tre olika fiendetyper; Den första är en simpel fiende som endast rör sig mot spelaren, den andra skjuter projektiler mot
+spelaren och den tredje tillverkar egna små fiender som också rör sig mot spelaren.
+
+KONTROLLER
+"W" för att röra sig framåt i muspekarens riktning
+"Left mouse button" för att skjuta enkelskott
+"Right mouse button" för att skjuta trippelskott
+"B" För att aktivera en bomb som dödar alla fiender på skärmen. Denn aktiveras bara om spelaren har 50 ammunition eller mer.
+"ESCAPE" Paus
+"SPACE" För att återgå till spelet när det är pausat
+"BACKSPACE" För att stänga ned spelet när det är pausat
